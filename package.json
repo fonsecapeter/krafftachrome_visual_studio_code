@@ -1,0 +1,64 @@
+{
+	"name": "theme-krafftachrome",
+	"version": "0.1.0",
+	"displayName": "Krafftachrome",
+	"homepage": "https://github.com/fonsecapeter/krafftachrome",
+	"description": "Colors pallette inspired by the work of Katia and Maurice Krafft.",
+	"publisher": "fonsecapeter",
+	"license": "MIT",
+	"scripts": {
+		"build": "node ./scripts/build.js",
+		"lint": "node ./scripts/lint.js",
+		"package": "vsce package -o ./bin/krafftachrome.vsix",
+		"vscode:prepublish": "npm run build",
+		"vsce-publish": "vsce publish"
+	},
+	"maintainers": [
+		"Peter Fonseca <peter.nfonseca@gmail.com>"
+	],
+	"contributors": [],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fonsecapeter/krafftachrome_visual_studio_code.git"
+	},
+	"bugs": {
+		"url": "https://github.com/fonsecapeter/krafftachrome_visual_studio_code/issues"
+	},
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"color-theme",
+		"dark",
+		"katia",
+		"krafft",
+		"krafftachrome",
+		"maurice",
+		"retro",
+		"theme",
+		"volcanology"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#3c4557",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Krafftachrome",
+				"uiTheme": "vs-dark",
+				"path": "./theme/krafftachrome.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"js-yaml": "^4.1.0",
+		"prettier": "^2.6.0",
+		"tinycolor2": "^1.4.2",
+		"vsce": "^2.7.0"
+	}
+}
