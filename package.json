@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"displayName": "Krafftachrome",
 	"homepage": "https://github.com/fonsecapeter/krafftachrome",
-	"description": "Colors pallette inspired by the work of Katia and Maurice Krafft.",
+	"description": "Color theme inspired by the work of Katia and Maurice Krafft.",
 	"publisher": "fonsecapeter",
 	"license": "MIT",
 	"scripts": {
@@ -41,7 +41,7 @@
 		"theme",
 		"volcanology"
 	],
-	"icon": "icon.png",
+	"icon": "",
 	"galleryBanner": {
 		"color": "#3c4557",
 		"theme": "dark"
