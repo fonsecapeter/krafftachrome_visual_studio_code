@@ -4,7 +4,7 @@
 
 Inspired by the work of [Katia and Maurice Krafft](https://en.wikipedia.org/wiki/Katia_and_Maurice_Krafft), this project aims to capture the strange and beautiful world of 20th century vulcanology. All colors were "droppered" directly from photos they took and "re-droppered" as I curated them into a cohesive palette that worked for daily use.
 
-[Install instructions here](https://github.com/fonsecapeter/krafftachrome_visual_studio_code/INSTALL.md)
+[Install instructions here](https://github.com/fonsecapeter/krafftachrome_visual_studio_code/blob/main/INSTALL.md)
 
 ![code sample](media/code_sample.webp)
 
