@@ -1,6 +1,6 @@
 {
 	"name": "theme-krafftachrome",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"displayName": "Krafftachrome",
 	"homepage": "https://github.com/fonsecapeter/krafftachrome_visual_studio_code",
 	"description": "Inspired by the work of Katia and Maurice Krafft, this project aims to capture the strange and beautiful world of 20th century vulcanology.",
@@ -35,10 +35,11 @@
 		"dark",
 		"katia",
 		"krafft",
-		"krafftachrome",
+		"low-contrast",
 		"maurice",
 		"retro",
 		"theme",
+		"science",
 		"volcanology"
 	],
 	"icon": "media/krafftachrome.png",
