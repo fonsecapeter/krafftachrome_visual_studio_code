@@ -1,17 +1,18 @@
 ## Krafftachrome theme for Visual Studio Code
 
 ![krafft photo](media/krafft_photo.webp)
-![code sample](media/code_sample.webp)
 
-Inspired by the work of Katia and Maria Krafft, this project aims to capture the strange and beautiful world of 20th century vulcanology. All colors were "droppered" directly from photos + videos they took and re-droppered as I curated them into a cohesive palette that actually worked for daily use.
+Inspired by the work of [Katia and Maurice Krafft](https://en.wikipedia.org/wiki/Katia_and_Maurice_Krafft), this project aims to capture the strange and beautiful world of 20th century vulcanology. All colors were "droppered" directly from photos they took and "re-droppered" as I curated them into a cohesive palette that worked for daily use.
+
+[Install instructions here](https://github.com/fonsecapeter/krafftachrome_visual_studio_code/INSTALL.md)
+
+![code sample](media/code_sample.webp)
 
 Colors:
 - ![#2d2d34](https://via.placeholder.com/15/2d2d34/2d2d34.png) Obsidian: `
 #2d2d34`
 - ![#cddde1](https://via.placeholder.com/15/cddde1/cddde1.png) FlameResistantSilver: `
 #cddde1`
-- ![#4b5960](https://via.placeholder.com/15/4b5960/4b5960.png) Selection: `
-#4b5960`
 - ![#663759](https://via.placeholder.com/15/663759/663759.png) HotObsidianPurple: `
 #663759`
 - ![#6a728d](https://via.placeholder.com/15/6a728d/6a728d.png) DarkStoneGray: `
@@ -45,10 +46,8 @@ Colors:
 - ![#b8aab7](https://via.placeholder.com/15/b8aab7/b8aab7.png) LightAshGray: `
 #b8aab7`
 
-If you want more of this, or jsut like everything on your computer to be matchy-matchy, check out some more color themes for other apps [over here](https://github.com/fonsecapeter/krafftachrome).
+If you want more krafftachrome, or just like everything on your computer to be matchy-matchy, go [over here](https://github.com/fonsecapeter/krafftachrome) and add the theme to other apps.
 
-[Install instructions here](https://github.com/fonsecapeter/krafftachrome_visual_studio_code/INSTALL.md)
+> I built this project off the source code from the excellent Dracula theme. Go [check out dracula](https://github.com/dracula/dracula-theme) and give it try if you haven't yet.
 
-** I build this VSCode project off the source code from the excellent Dracula theme. [Go check it out over here and try it out if you haven't yet](https://github.com/dracula/dracula-theme)
-
-** Colors may change slightly over time if I feel like changing them
+> ** Colors may change slightly over time if I feel like changing them
