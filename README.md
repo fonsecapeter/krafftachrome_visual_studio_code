@@ -51,3 +51,5 @@ If you want more krafftachrome, or just like everything on your computer to be m
 > I built this project off the source code from the excellent Dracula theme. Go [check out dracula](https://github.com/dracula/dracula-theme) and give it try if you haven't yet.
 
 > ** Colors may change slightly over time if I feel like changing them
+
+> note: [vscode publishing docs are here](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)

@@ -1,9 +1,9 @@
 {
 	"name": "theme-krafftachrome",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"displayName": "Krafftachrome",
-	"homepage": "https://github.com/fonsecapeter/krafftachrome",
-	"description": "Color theme inspired by the work of Katia and Maurice Krafft.",
+	"homepage": "https://github.com/fonsecapeter/krafftachrome_visual_studio_code",
+	"description": "Inspired by the work of Katia and Maurice Krafft, this project aims to capture the strange and beautiful world of 20th century vulcanology.",
 	"publisher": "fonsecapeter",
 	"license": "MIT",
 	"scripts": {
@@ -41,9 +41,9 @@
 		"theme",
 		"volcanology"
 	],
-	"icon": "",
+	"icon": "media/krafftachrome.png",
 	"galleryBanner": {
-		"color": "#3c4557",
+		"color": "#2d2d34",
 		"theme": "dark"
 	},
 	"contributes": {
