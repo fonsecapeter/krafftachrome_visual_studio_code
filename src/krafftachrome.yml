@@ -766,18 +766,9 @@ tokenColors:
     - punctuation.definition.block.sequence.item.yaml
     - punctuation.definition.entity.other.inherited-class
     - punctuation.function.swift
-    - punctuation.separator.dictionary.key-value
-    - punctuation.separator.hash
-    - punctuation.separator.inheritance
-    - punctuation.separator.key-value
-    - punctuation.separator.key-value.mapping.yaml
-    - punctuation.separator.namespace
-    - punctuation.separator.pointer-access
-    - punctuation.separator.slice
     - string.unquoted.heredoc punctuation.definition.string
     - support.other.chomping-indicator.yaml
-    - punctuation.separator.annotation
-    - punctuation.separator.dictionary
+    - punctuation.separator
     settings:
       foreground: *MID_ASH_GRAY
 
@@ -1062,6 +1053,8 @@ tokenColors:
     - punctuation.section.embedded.end.jsx
     - punctuation.separator.list.comma.css                          # Commas separating selectors in CSS
     - constant.language.empty-list.haskell
+    - punctuation.section.class.begin.python                        # Python definition colonscolons
+    - punctuation.section.function.begin.python
     settings:
       foreground: *MID_ASH_GRAY
 

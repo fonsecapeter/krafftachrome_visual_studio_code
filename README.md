@@ -6,7 +6,7 @@ Inspired by the work of [Katia and Maurice Krafft](https://en.wikipedia.org/wiki
 
 [Install instructions here](https://github.com/fonsecapeter/krafftachrome_visual_studio_code/blob/main/INSTALL.md)
 
-![code sample](media/code_sample.webp)
+![code sample](media/code_sample.png)
 
 Colors:
 - ![#2d2d34](https://via.placeholder.com/15/2d2d34/2d2d34.png) Obsidian: `#2d2d34`
