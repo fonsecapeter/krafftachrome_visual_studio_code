@@ -618,6 +618,7 @@ tokenColors:
     scope:
     - constant
     - variable.other.constant
+    - constant.other.caps.python
     settings:
       foreground: *ACID_LAKE_DEEP
 
@@ -985,7 +986,6 @@ tokenColors:
 
   - name: Variables and object properties
     scope:
-    - variable
     - constant.other.key.perl     # Perl edge case
     - support.variable.property   # Object properties
     - variable.other.constant.js  # Fix incorrect highlighting of pseudo-constants in js, jsx
@@ -1058,7 +1058,6 @@ tokenColors:
     settings:
       foreground: *MID_ASH_GRAY
 
-  # This is set to conform to the standard of coloring langage constants blue.
   # In this case, this colors "$?", "$@", "$*", "$1", etc..
   - name: Shell variables prefixed with "$" (edge case)
     scope:
