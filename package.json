@@ -11,7 +11,8 @@
 		"lint": "node ./scripts/lint.js",
 		"package": "vsce package -o ./bin/krafftachrome.vsix",
 		"vscode:prepublish": "npm run build",
-		"vsce-publish": "vsce publish"
+		"vsce-publish": "vsce publish",
+		"vsce-login": "vsce login"
 	},
 	"maintainers": [
 		"Peter Fonseca <peter.nfonseca@gmail.com>"
