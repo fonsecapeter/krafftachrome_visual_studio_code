@@ -8,6 +8,8 @@ Inspired by the work of [Katia and Maurice Krafft](https://en.wikipedia.org/wiki
 
 ![code sample](media/code_sample.png)
 
+> In case you're wondering, that font is [Brass Mono](https://github.com/fonsecapeter/brass_mono).
+
 Colors:
 - ![#2d2d34](https://via.placeholder.com/15/2d2d34/2d2d34.png) Obsidian: `#2d2d34`
 - ![#cddde1](https://via.placeholder.com/15/cddde1/cddde1.png) FlameResistantSilver: `#cddde1`
